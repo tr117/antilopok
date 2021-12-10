@@ -6,3 +6,7 @@ Nilgau antilop
 Óriás jávorantilop
 Maxwell-bóbitásantilop
 Delamere bozóti antilop
+apró törpeantilop
+Bates-törpeantilop
+pézsmaantilop
+sziklaugró antilop
